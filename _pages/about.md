@@ -25,13 +25,13 @@ Education
 
 Publications
 ======
-- [CCF-C] The Broken Verifying: Inspections at Verification Tools for Windows Code-Signing Signatures[C]. [PDF](http://academicpages.github.io/files/trustcom23.pdf) 
+- [CCF-C] The Broken Verifying: Inspections at Verification Tools for Windows Code-Signing Signatures[C]. [PDF](http://freedomfu.github.io/files/trustcom23.pdf) 
   - Guangqi Liu, Qiongxiao Wang, Cunqing Ma, Jingqiang Lin, **Yanduo Fu**, Bingyu Li, Dingfeng Ye
   - Proc. TrustCom 2023.
-- [CCF-C] You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks[C]. [PDF](http://academicpages.github.io/files/trustcom22.pdf)
+- [CCF-C] You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks[C]. [PDF](http://freedomfu.github.io/files/trustcom22.pdf)
   - Li Song, Qiongxiao Wang, Shijie Jia, Jingqiang Lin, Linli Lu, **Yanduo Fu**
   - Proc. TrustCom 2022.
-- [CCF-C] Exploring the Security Issues of Trusted CA Certificate Management[C]. [PDF](http://academicpages.github.io/files/icics21.pdf)
+- [CCF-C] Exploring the Security Issues of Trusted CA Certificate Management[C]. [PDF](http://freedomfu.github.io/files/icics21.pdf)
   - **Yanduo Fu**, Qiongxiao Wang, Jingqiang Lin, Aozhuo Sun, Linli Lu
   - Proc. ICICS 2021.
 
