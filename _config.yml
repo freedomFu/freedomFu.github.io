@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Fu Yanduo"
-  pronouns         : "he/his"  
-  bio              : "Eng.D in Nankai University"
+  pronouns         : # "he/his"  
+  bio              : "Hi, I am a Eng.D candidate in Nankai University. My research interest is identity authentication and web security."
   location         : "Tianjin"
   employer         : "Nankai University"
   uri              : # URL
@@ -37,7 +37,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yanduo-Fu"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
