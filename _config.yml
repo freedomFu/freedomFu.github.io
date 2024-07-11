@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Fu Yanduo"
   pronouns         : # "he/his"  
-  bio              : "Hi, I am a Eng.D candidate in Nankai University. My research interest is identity authentication and web security."
+  bio              : # "Hi, I am a Eng.D candidate in Nankai University. My research interest is identity authentication and web security."
   location         : "Tianjin"
   employer         : "Nankai University"
   uri              : # URL
