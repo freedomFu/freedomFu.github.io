@@ -276,7 +276,7 @@ redirect_from:
     <div name="service" id="news_content" class="sectioncontent">
         <p>
         <ul>
-            <li>Subreviewer paper reviewer for The 25th International Conference on Information and Communications Security (ICICS 2023).</li>
+            <li>Paper subreviewer for The 25th International Conference on Information and Communications Security (ICICS 2023).</li>
         </ul>
         </p>
     </div>
