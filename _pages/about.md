@@ -181,7 +181,7 @@ redirect_from:
 </style>
 
 <div id="Biograph" class="sectiontitle">
-    Biograph
+    Biograph <a href="http://freedomfu.github.io/">[CV-中文]</a>|<a href="http://freedomfu.github.io/">[CV-EN]</a>
     <hr />
     <div name="biograph" id="shortbio" class="biocontent">
         <p>
