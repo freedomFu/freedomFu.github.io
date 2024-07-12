@@ -232,7 +232,7 @@ redirect_from:
     <div name="news" id="news_content" class="sectioncontent">
         <p>
         <ul>
-            <li><i>2022.09</i> I have been admitted as a Eng.D candidate at the College of Computer Science at Nankai University. 🎉</li>
+            <li><i>2022.09</i> I will pursue my Eng.D degree at the College of Computer Science at Nankai University. 🎉🧘🏻</li>
         </ul>
         </p>
     </div>
@@ -261,7 +261,7 @@ redirect_from:
             <li>
                 <strong>
                     <span style="color:#04cf04;">[CCF-C]</span> Exploring the Security Issues of Trusted CA Certificate Management[C].</strong> <a
-                    href="http://freedomfu.github.io/files/2021icics.pdf">[pdf]</a><br />
+                    href="http://freedomfu.github.io/files/2021icics.pdf">[PDF]</a><br />
                 <b>Yanduo Fu</b>, Qiongxiao Wang, Jingqiang Lin, Aozhuo Sun, Linli Lu<br />
                 <em>Proc. ICICS 2021.</em><br />
             </li>
