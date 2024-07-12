@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a third-year Eng.D candidate at Nankai University under the supervision of [Prof. Ding Wang](http://wangdingg.weebly.com/). Before that, I have received the joint Master of Engineering degree with the Uninversity and Chinese Academy of Sciences (UCAS), and Institute of Information Engineering (IIE), Chinese Academy of Sciences, under the supervision of [Senior Engineer Qiongxiao Wang](https://dblp.org/pid/52/8379.html), and I have been in the team under the direction of [Prof. Jingqiang Lin](https://lin-jingqiang.github.io/). My research interests include identity authentication, web security. I have been interning with [Associate Professor HuaWei Mei's Dreamtech group](https://dreamtech.team/) since my sophomore year in NCEPU.
+<p style="font-size:12px;">Hi.🫡 I am currently a third-year Eng.D candidate at Nankai University, under the supervision of [Prof. Ding Wang](http://wangdingg.weebly.com/). Prior to this, I earned a joint Master of Engineering degree with the University and Chinese Academy of Sciences (UCAS), and Institute of Information Engineering (IIE), Chinese Academy of Sciences, supervised by [Senior Engineer Qiongxiao Wang](https://dblp.org/pid/52/8379.html) with significant guidance from [Associate Professor Bingyu Li](https://www.researchgate.net/profile/Bingyu-Li-12). I was also part of the research team led by [Prof. Jingqiang Lin](https://lin-jingqiang.github.io/). My research interests include identity authentication, measurement, and web security. Additionally, I have been interning with [Associate Professor HuaWei Mei's Dreamtech group](https://dreamtech.team/) since my sophomore year at NCEPU.</p>
 
 Education
 ======
 
-- September 2022 - Now. 
-  - Eng.D in Computer Technology.
-  - College of Computer Science, Nankai University.
+- <p style="font-size:12px;">September 2022 - Now.</p>
+  - <p style="font-size:12px;">Eng.D in Computer Technology.</p>
+  - <p style="font-size:12px;">College of Computer Science, Nankai University.</p>
+  - <p style="font-size:12px;">*Whoever reads this message, I want to tell you are amazing, you are loved, you are worthy. Everything is temporary and you will come out of this hard time shining. ​​*</p>
 - September 2019 - June 2022. 
   - Master of Engineering in Cyberspace Security.
   - Institute of Information Engineering, Uninversity of Chinese Academy of Sciences. 
