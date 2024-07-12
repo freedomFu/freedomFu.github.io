@@ -7,18 +7,204 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  @media screen and (max-device-width: 600px) {
+   body {
+    -webkit-text-size-adjust: none;
+   }
+  }
+
+  p {
+   font-size: 16px;
+  }
+
+  h1 {
+   padding: 0;
+   margin: 0;
+   font-size: 34px;
+  }
+
+  h2 {
+   font-size: 20px;
+   margin: 0;
+   padding: 0;
+  }
+
+  h3 {
+   font-size: 16px;
+   margin: 0;
+   padding: 0;
+  }
+
+  body {
+   padding: 0;
+   font-family: Arial;
+   font-size: 16px;
+   background-color: #FFFFFF;
+  }
+
+  .title {
+   width: 650px;
+   margin: 20px auto;
+  }
+
+  .container {
+   width: 800px;
+   margin: 20px auto;
+   border-radius: 10px;
+   background-color: #fff;
+   padding: 20px;
+   clear: both;
+  }
+
+  .bio {
+   padding-top: 50px;
+  }
+
+  .me {
+   border: 0 solid black;
+   margin-bottom: 50px;
+   border-radius: 10px;
+  }
+
+  .sidebar {
+   margin-left: 50px;
+   margin-right: 40px;
+   border: 0 solid black;
+   float: left;
+   margin-bottom: 0;
+  }
+
+  a {
+   text-decoration: none;
+  }
+
+  a:hover {
+   text-decoration: underline;
+  }
+
+  a,
+  a:visited {
+   color: #0050e7;
+  }
+
+  .sectiontitle {
+   width: 800px;
+   margin: 10px auto 5px;
+   background-color: #fff;
+   padding: 10px;
+   clear: both;
+   font-size: 18px;
+   font-weight: bold;
+  }
+
+  .sectioncontent {
+   width: 800px;
+   margin: auto auto;
+   background-color: #fff;
+   clear: both;
+   font-size: 16px;
+   font-weight: normal;
+  }
+
+  .biocontent {
+   width: 800px;
+   margin: auto auto;
+   background-color: #fff;
+   clear: both;
+   font-size: 16px;
+   font-weight: normal;
+   text-align: justify
+  }
+
+  .publogo {
+   width: 100 px;
+   margin-right: 30px;
+   margin-left: 30px;
+   float: left;
+   border: 0;
+  }
+
+  .publication {
+   clear: left;
+   padding-bottom: 0px;
+  }
+
+  .publication p {
+   height: 100px;
+   padding-top: 5px;
+  }
+
+  .sectioncontent strong {
+   color: rgb(40, 20, 100);
+   font-size: 16px;
+  }
+
+  .publication .links {
+   position: relative;
+   top: 15px
+  }
+
+  .publication .links a {
+   margin-right: 20px;
+  }
+
+  .codelogo {
+   margin-right: 10px;
+   float: left;
+   border: 0;
+  }
+
+  .code {
+   clear: left;
+   padding-bottom: 10px;
+   vertical-align: middle;
+  }
+
+  .code .download a {
+   display: block;
+   margin: 0 15px;
+   float: left;
+  }
+
+  .code strong a {
+   color: #000;
+  }
+
+  .external a {
+   margin: 0 10px;
+  }
+
+  .external a.first {
+   margin: 0 10px 0 0;
+  }
+ </style>
+
+<div id="Biograph" class="sectiontitle">
+  Biograph
+  <hr />
+  <div name="biograph" id="shortbio" class="biocontent">
+   <p>
+   Hi.🫡 I am currently a third-year Eng.D candidate at Nankai University, under the supervision of <a href="http://wangdingg.weebly.com/">Prof. Ding Wang</a>. Prior to this, I earned a joint Master of Engineering degree with the University and Chinese Academy of Sciences (UCAS), and Institute of Information Engineering (IIE), Chinese Academy of Sciences, supervised by <a href="https://dblp.org/pid/52/8379.html">Senior Engineer Qiongxiao Wang</a> with significant guidance from <a href="https://www.researchgate.net/profile/Bingyu-Li-12">Associate Professor Bingyu Li</a>. I was also part of the research team led by <a href="https://lin-jingqiang.github.io/">Prof. Jingqiang Lin</a>. My research interests include identity authentication, measurement, and web security. Additionally, I have been interning with <a href="https://dreamtech.team/">Associate Professor HuaWei Mei's Dreamtech group</a> since my sophomore year at NCEPU.
+	<!-- I am a Eng.D student at Nankai University under the supervision of <a href="http://wangdingg.weebly.com/">Prof. Ding Wang</a>. Before that, I have received the joint Master of Engineering degree with the Uninversity and Chinese Academy of
+    Sciences (UCAS), and
+    Institute of Information Engineering (IIE), Chinese Academy of Sciences, under the supervision of <a href="https://dblp.org/pid/52/8379.html">Senior Engineer Qiongxiao Wang</a>, and I have been in the team under the direction of <a href="https://lin-jingqiang.github.io/">Prof. Jingqiang Lin</a>. My research interests include identity authentication and password-based authentication. I have been interning with <a href="https://dreamtech.team/">Associate Professor HuaWei Mei's Dreamtech group</a> since my sophomore year in NCEPU. -->
+   </p>
+  </div>
+ </div>
+
 Hi.🫡 I am currently a third-year Eng.D candidate at Nankai University, under the supervision of [Prof. Ding Wang](http://wangdingg.weebly.com/). Prior to this, I earned a joint Master of Engineering degree with the University and Chinese Academy of Sciences (UCAS), and Institute of Information Engineering (IIE), Chinese Academy of Sciences, supervised by [Senior Engineer Qiongxiao Wang](https://dblp.org/pid/52/8379.html) with significant guidance from [Associate Professor Bingyu Li](https://www.researchgate.net/profile/Bingyu-Li-12). I was also part of the research team led by [Prof. Jingqiang Lin](https://lin-jingqiang.github.io/). My research interests include identity authentication, measurement, and web security. Additionally, I have been interning with [Associate Professor HuaWei Mei's Dreamtech group](https://dreamtech.team/) since my sophomore year at NCEPU.
 
 Education
 ======
-🏋🏻
+
 - 🧘🏻September 2022 - Now.
   - Eng.D in Computer Technology.
   - College of Computer Science, Nankai University.
   - *Whoever reads this message, I want to tell you are amazing, you are loved, you are worthy. Everything is temporary and you will come out of this hard time shining.​*☀️🌞😎​
-- 🏃🏻September 2019 - June 2022. 
+- 🏃🏻September 2019 - June 2022.
   - Master of Engineering in Cyberspace Security.
-  - Institute of Information Engineering, University of Chinese Academy of Sciences. 
+  - Institute of Information Engineering, University of Chinese Academy of Sciences.
   - My research interest was identity authentication and digital certificate during this period.
 - 🚶🏻September 2015 - June 2019.
   - Bachelor in Computer Science and Technology.
@@ -26,7 +212,8 @@ Education
 
 Publications
 ======
-- <p style="color: lightgreen;">[CCF-C]</p> The Broken Verifying: Inspections at Verification Tools for Windows Code-Signing Signatures[C]. [(PDF)](http://freedomfu.github.io/files/2023trustcom.pdf) 
+
+- <p style="color: lightgreen;">[CCF-C]</p> The Broken Verifying: Inspections at Verification Tools for Windows Code-Signing Signatures[C]. [(PDF)](http://freedomfu.github.io/files/2023trustcom.pdf)
   - Guangqi Liu, Qiongxiao Wang, Cunqing Ma, Jingqiang Lin, **Yanduo Fu**, Bingyu Li, Dingfeng Ye
   - Proc. TrustCom 2023.
 - <p style="color: lightgreen;">[CCF-C]</p> You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks[C]. [(PDF)](http://freedomfu.github.io/files/2022trustcom.pdf)
@@ -38,4 +225,5 @@ Publications
 
 Services
 ------
+
 - Subreviewer paper reviewer for The 25th International Conference on Information and Communications Security (ICICS 2023).
