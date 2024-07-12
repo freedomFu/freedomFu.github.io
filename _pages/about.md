@@ -210,13 +210,13 @@ redirect_from:
                 🎯 Eng.D in Computer Technology, College of Computer Science.<br />
             </li>
             <li>
-                🏃🏻 September 2019 - June 2022. <br />
+                🧘🏻 September 2019 - June 2022. <br />
                 🏫 <b>Institute of Information Engineering, University of Chinese Academy of Sciences.</b><br />
                 🎯 Master of Engineering in <b>Cyberspace Security</b>, College of Cyber Security.<br />
                 💡 My research interest was identity authentication and digital certificate during this period.<br />
             </li>
             <li>
-                🚶🏻 September 2015 - June 2019. <br />
+                🧘🏻 September 2015 - June 2019. <br />
                 🏫 <b>North China Electric Power University (Baoding).</b><br />
                 🎯 Bachelor in Computer Science and Technology.<br />
                 💡 <i><a href="https://www.bilibili.com/video/BV1xt411M7FM">Donkey HamBurger</a></i> in Baoding is delicious.<br />
