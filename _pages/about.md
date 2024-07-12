@@ -185,12 +185,12 @@ redirect_from:
     <hr />
     <div name="biograph" id="shortbio" class="biocontent">
         <p>
-            Hi.🫡 I am currently a third-year Eng.D candidate at Nankai University, under the supervision of <a href="http://wangdingg.weebly.com/">Prof. Ding Wang</a>. Prior to this, I earned a joint
-            Master of Engineering degree with the University and Chinese Academy of Sciences (UCAS), and Institute of Information Engineering (IIE), Chinese Academy of Sciences, supervised by <a
+            Hi.🫡 I am currently a third-year Eng.D candidate at <a href="https://www.nankai.edu.cn/">Nankai University</a>, under the supervision of <a href="http://wangdingg.weebly.com/">Prof. Ding Wang</a>. Prior to this, I earned a joint
+            Master of Engineering degree with the <a href="https://www.ucas.ac.cn/">University and Chinese Academy of Sciences (UCAS)</a>, and <a href="https://www.iie.ac.cn/">Institute of Information Engineering (IIE)</a>, Chinese Academy of Sciences, supervised by <a
                 href="https://dblp.org/pid/52/8379.html">Senior Engineer Qiongxiao Wang</a> with significant guidance from <a href="https://www.researchgate.net/profile/Bingyu-Li-12">Associate
                 Professor Bingyu Li</a>. I was also part of the research team led by <a href="https://lin-jingqiang.github.io/">Prof. Jingqiang Lin</a>. My research interests include identity
             authentication, measurement, and web security. Additionally, I have been interning with <a href="https://dreamtech.team/">Associate Professor Huawei Mei's Dreamtech group</a> since my
-            sophomore year at NCEPU.
+            sophomore year at <a href="https://net.ncepu.edu.cn/">NCEPU</a>.
         </p>
         <p>
             🌞 Whoever reads this message, I want to tell you are amazing, you are loved, you are worthy. Everything is temporary and you will come out of this hard time shining.​
