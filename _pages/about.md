@@ -189,7 +189,7 @@ redirect_from:
             Master of Engineering degree with the University and Chinese Academy of Sciences (UCAS), and Institute of Information Engineering (IIE), Chinese Academy of Sciences, supervised by <a
                 href="https://dblp.org/pid/52/8379.html">Senior Engineer Qiongxiao Wang</a> with significant guidance from <a href="https://www.researchgate.net/profile/Bingyu-Li-12">Associate
                 Professor Bingyu Li</a>. I was also part of the research team led by <a href="https://lin-jingqiang.github.io/">Prof. Jingqiang Lin</a>. My research interests include identity
-            authentication, measurement, and web security. Additionally, I have been interning with <a href="https://dreamtech.team/">Associate Professor HuaWei Mei's Dreamtech group</a> since my
+            authentication, measurement, and web security. Additionally, I have been interning with <a href="https://dreamtech.team/">Associate Professor Huawei Mei's Dreamtech group</a> since my
             sophomore year at NCEPU.
         </p>
         <p>
