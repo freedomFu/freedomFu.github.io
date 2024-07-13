@@ -281,3 +281,16 @@ redirect_from:
         </p>
     </div>
 </div>
+
+<div id="UsefulLinks" class="sectiontitle">
+    Some Useful Links
+    <hr />
+    <div name="useful_links" id="news_content" class="sectioncontent">
+        <p>
+        <ul>
+            <li><a href="https://github.com/frankwxu/digital-forensics-lab">Free hands-on digital forensics labs for students and faculty</a></li>
+            <li><a href="https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/">How to write a great research paper</a></li>
+        </ul>
+        </p>
+    </div>
+</div>
