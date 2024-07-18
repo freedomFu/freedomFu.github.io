@@ -25,7 +25,7 @@ author:
   name             : "Fu Yanduo"
   pronouns         : # "he/his"  
   bio              : # "Hi, I am a Eng.D candidate in Nankai University. My research interest is identity authentication and web security."
-  location         : "Tianjin"
+  location         : "Tianjin, China"
   employer         : "Nankai University"
   uri              : # URL
   email            : "fuyanduo@foxmail.com" 
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : https://www.zhihu.com/people/fu-yan-duo-97 # URL
 
 
 # Site Settings
