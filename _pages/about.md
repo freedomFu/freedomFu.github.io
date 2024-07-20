@@ -198,7 +198,7 @@ redirect_from:
     </div>
 </div>
 
-<div id="Education" class="sectiontitle">
+<div id="Education" class="sectiontitle"><a href="#education">⚓</a>
     Education
     <hr />
     <div name="education" id="shortedu" class="biocontent">
