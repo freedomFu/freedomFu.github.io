@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "🧘🏻Biograph"
-    url: http://freedomfu.github.io/#biograph
+    url: http://freedomfu.github.io#biograph
 
   - title: "🤓Education"
-    url: http://freedomfu.github.io/#education
+    url: http://freedomfu.github.io#education
 
   - title: "🎯News"
-    url: http://freedomfu.github.io/#news
+    url: http://freedomfu.github.io#news
     
   - title: "📖Publications"
-    url: http://freedomfu.github.io/#publications
+    url: http://freedomfu.github.io#publications
         
   - title: "🌞Academic Services"
-    url: http://freedomfu.github.io/#services
+    url: http://freedomfu.github.io#services
 
   - title: "☕Some Useful Links"
-    url: https://freedomfu.github.io/#links
+    url: https://freedomfu.github.io#links
     
   # - title: "CV"
   #   url: https://freedomfu.github.io/files/cv-en.pdf
