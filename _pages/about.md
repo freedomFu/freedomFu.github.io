@@ -88,6 +88,26 @@ redirect_from:
         color: #0050e7;
     }
 
+    .a_mount {
+        text-decoration: none; /* 去掉底部划线 */
+        color: #3498db; /* 设置链接颜色 */
+        font-weight: bold; /* 设置字体加粗 */
+        padding: 5px 10px; /* 添加内边距 */
+        border-radius: 5px; /* 设置圆角 */
+        transition: background-color 0.3s, color 0.3s; /* 添加过渡效果 */
+    }
+
+    /* 鼠标悬停时的样式 */
+    .a_mount:hover {
+        background-color: #3498db; /* 设置悬停时背景颜色 */
+        color: white; /* 设置悬停时文字颜色 */
+    }
+
+    /* 链接被点击时的样式 */
+    .a_mount:active {
+        background-color: #2980b9; /* 设置点击时背景颜色 */
+    }
+
     .sectiontitle {
         width: 800px;
         margin: 10px auto 5px;
@@ -181,7 +201,8 @@ redirect_from:
 </style>
 
 <div id="Biograph" class="sectiontitle">
-    Biograph <a href="http://freedomfu.github.io/">[CV-中文]</a>|<a href="http://freedomfu.github.io/">[CV-EN]</a>
+    <a class="a_mount" href="#biograph">🧘🏻Biograph</a>
+    <a href="http://freedomfu.github.io/">[CV-中文]</a>|<a href="http://freedomfu.github.io/">[CV-EN]</a>
     <hr />
     <div name="biograph" id="shortbio" class="biocontent">
         <p>
@@ -198,8 +219,8 @@ redirect_from:
     </div>
 </div>
 
-<div id="Education" class="sectiontitle"><a href="#education">⚓</a>
-    Education
+<div id="Education" class="sectiontitle">
+    <a class="a_mount" href="#education">🤓Education</a>
     <hr />
     <div name="education" id="shortedu" class="biocontent">
         <p>
@@ -227,7 +248,7 @@ redirect_from:
 </div>
 
 <div id="News" class="sectiontitle">
-    News
+    <a class="a_mount" href="#news">🎯News</a>
     <hr />
     <div name="news" id="news_content" class="sectioncontent">
         <p>
@@ -239,7 +260,7 @@ redirect_from:
 </div>
 
 <div id="Publication" class="sectiontitle">
-    Publications
+    <a class="a_mount" href="#publications">📖Publications</a>
     <hr />
     <div name="publication" id="news_content" class="sectioncontent">
         <p>
@@ -271,7 +292,7 @@ redirect_from:
 </div>
 
 <div id="Services" class="sectiontitle">
-    Academic Services
+    <a class="a_mount" href="#services">🌞Academic Services</a>
     <hr />
     <div name="service" id="news_content" class="sectioncontent">
         <p>
@@ -283,7 +304,7 @@ redirect_from:
 </div>
 
 <div id="UsefulLinks" class="sectiontitle">
-    Some Useful Links
+    <a class="a_mount" href="#links">☕Some Useful Links</a>
     <hr />
     <div name="useful_links" id="news_content" class="sectioncontent">
         <p>

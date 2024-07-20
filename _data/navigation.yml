@@ -1,22 +1,22 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "🧘🏻Biograph"
+    url: http://freedomfu.github.io/#biograph
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "🤓Education"
+    url: http://freedomfu.github.io/#education
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "🎯News"
+    url: http://freedomfu.github.io/#news
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "📖Publications"
+    url: http://freedomfu.github.io/#publications
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "🌞Academic Services"
+    url: http://freedomfu.github.io/#services
 
-  # - title: "个人简历"
-  #   url: https://freedomfu.github.io/files/cv-en.pdf
+  - title: "☕Some Useful Links"
+    url: https://freedomfu.github.io/#links
     
   # - title: "CV"
   #   url: https://freedomfu.github.io/files/cv-en.pdf
