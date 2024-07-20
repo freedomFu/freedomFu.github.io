@@ -219,8 +219,8 @@ redirect_from:
     </div>
 </div>
 
-<div id="Education" class="sectiontitle">
-    <a class="a_mount" href="#education">🤓Education</a>
+<div id="education" class="sectiontitle">
+    🤓Education
     <hr />
     <div name="education" id="shortedu" class="biocontent">
         <p>
@@ -247,8 +247,8 @@ redirect_from:
     </div>
 </div>
 
-<div id="News" class="sectiontitle">
-    <a class="a_mount" href="#news">🎯News</a>
+<div id="news" class="sectiontitle">
+    🎯News
     <hr />
     <div name="news" id="news_content" class="sectioncontent">
         <p>
@@ -259,8 +259,8 @@ redirect_from:
     </div>
 </div>
 
-<div id="Publication" class="sectiontitle">
-    <a class="a_mount" href="#publications">📖Publications</a>
+<div id="publication" class="sectiontitle">
+    📖Publications
     <hr />
     <div name="publication" id="news_content" class="sectioncontent">
         <p>
@@ -291,8 +291,8 @@ redirect_from:
     </div>
 </div>
 
-<div id="Services" class="sectiontitle">
-    <a class="a_mount" href="#services">🌞Academic Services</a>
+<div id="services" class="sectiontitle">
+    🌞Academic Services
     <hr />
     <div name="service" id="news_content" class="sectioncontent">
         <p>
@@ -303,8 +303,8 @@ redirect_from:
     </div>
 </div>
 
-<div id="UsefulLinks" class="sectiontitle">
-    <a class="a_mount" href="#links">☕Some Useful Links</a>
+<div id="usefullinks" class="sectiontitle">
+    ☕Some Useful Links
     <hr />
     <div name="useful_links" id="news_content" class="sectioncontent">
         <p>

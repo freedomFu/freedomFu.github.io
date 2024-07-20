@@ -10,13 +10,13 @@ main:
     url: http://freedomfu.github.io#news
     
   - title: "📖Publications"
-    url: http://freedomfu.github.io#publications
+    url: http://freedomfu.github.io#publication
         
   - title: "🌞Academic Services"
     url: http://freedomfu.github.io#services
 
   - title: "☕Some Useful Links"
-    url: https://freedomfu.github.io#links
+    url: https://freedomfu.github.io#usefullinks
     
   # - title: "CV"
   #   url: https://freedomfu.github.io/files/cv-en.pdf
