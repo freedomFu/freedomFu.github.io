@@ -15,8 +15,8 @@ main:
   - title: "🌞Services"
     url: http://freedomfu.github.io#services
 
-  - title: "💡Thoughts"
-    url: http://freedomfu.github.io/thoughts/index.md
+  # - title: "💡Thoughts"
+  #   url: http://freedomfu.github.io/thoughts/index.md
 
   - title: "☕Links"
     url: https://freedomfu.github.io#usefullinks
