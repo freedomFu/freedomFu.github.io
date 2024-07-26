@@ -20,7 +20,10 @@ main:
 
   - title: "☕Links"
     url: https://freedomfu.github.io#usefullinks
-    
+
+  - title: "🎨Blog"
+    url: /year-archive/
+
   # - title: "CV"
   #   url: https://freedomfu.github.io/files/cv-en.pdf
     
