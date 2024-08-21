@@ -1,14 +1,10 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "The Broken Verifying: Inspections at Verification Tools for Windows Code-Signing Signatures"
+    authors: Guangqi Liu, Qiongxiao Wang, Cunqing Ma, Jingqiang Lin, <strong>Yanduo Fu</strong>, Bingyu Li, Dingfeng Ye
+    conference_short: TrustCom
+    conference: The 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications <strong>(TrustCom)</strong>, 2023.
+    pdf: http://freedomfu.github.io/assets/files/2023trustcom.pdf
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
