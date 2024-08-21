@@ -10,8 +10,6 @@ My name is Yanduo Fu (付彦铎 in Chinese). I am currently a third-year Eng.D c
 
 🌞 Whoever reads this message, I want to tell you are amazing, you are loved, you are worthy. Everything is temporary and you will come out of this hard time shining.​
 
-
-
 ## Research Interests
 
 - **Identity Authentication:** Password-based Authentication, Password Management
