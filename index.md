@@ -17,8 +17,7 @@ My name is Yanduo Fu (付彦铎 in Chinese). I am currently a third-year Eng.D c
 - **Digital Forensics:** Network Measurement, End-to-End Testing
 
 ## News
-
-
+- **[Aug. 2024]** One paper for password manager is accepted by ACSAC 2024. 🎉😎
 - **[Sep. 2022]** I will pursue my Eng.D degree at Nankai University. 🎉🧘🏻
 
 {% include_relative _includes/publications.md %}
