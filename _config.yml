@@ -89,7 +89,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: 🧗🏋️‍♂️🏃 # blog_name will be displayed in your blog page
-blog_description: There is only one heroism in the world, to see the world as it is and to love it.
+blog_description: To see the world as it is and to love it.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
