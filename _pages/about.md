@@ -1,17 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p style="font-size: 9pt;">During the ACSAC 2024 conference, we visited the USS Mississippi. I’ve really liked this picture recently; it’s been a while since I’ve laughed like this. 😁</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello there🫡! Wish you have a nice day 😁
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My name is Yanduo Fu (付彦铎 in Chinese). I am currently a third-year Eng.D candidate at [Nankai University](https://www.nankai.edu.cn/), fortunate to be supervised by [Professor Ding Wang](http://wangdingg.weebly.com/). Prior to this, I earned a joint Master of Engineering degree with the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn/)), and the Institute of Information Engineering ([IIE](https://www.iie.ac.cn/)), Chinese Academy of Sciences, supervised by [Senior Engineer Qiongxiao Wang](https://dblp.org/pid/52/8379.html) in the research team led by [Professor Jingqiang Lin](https://lin-jingqiang.github.io/). During this period, I also participated in an academic seminar led by [Associate Professor Bingyu Li](https://www.researchgate.net/profile/Bingyu-Li-12). Additionally, I have been interning with [Associate Professor Huawei Mei's Dreamtech group](https://dreamtech.team/) since my sophomore year at North China Electric Power University ([NCEPU](https://net.ncepu.edu.cn/)) in Baoding.
+
+🎯 My research fields mainly include password-based authentication, password manager, end-to-end testing. Additionally, I'm currently intrigued by the fields of network measurement and digital forensics. I aspire to leverage technical skills to safeguard the security of the internet and the privacy of users.
+
+✨ In life, I prefer to engage in some gentle exercises, such as health-preserving basketball, yoga, strength training, jogging, reading, and listening to the same piece of music repeatedly. I also occasionally play single-player games (e.g., NBA 2K series).
+
+🧗 **Motto:** Do it anyway.
