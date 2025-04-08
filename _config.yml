@@ -7,7 +7,7 @@ first_name: Yanduo
 middle_name: 
 last_name: Fu
 contact_note: >
-  I'm trying to stay off social platforms these days, though always happy to meet up for coffee or exchange emails!
+  I’ve been trying to minimize my use of social media. If it’s convenient, I’d appreciate it if we could communicate via email or in person.😀
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -98,7 +98,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
