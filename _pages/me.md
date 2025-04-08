@@ -1,8 +1,10 @@
 ---
-layout: about
-title: Research
-permalink: /
+layout: default
+title: More
+permalink: /me/
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav: true
+nav_order: 3
 
 profile:
   align: right
