@@ -16,20 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-more",
-          title: "More",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/me/";
-          },
         },{id: "post-如何做一篇学术论文笔记",
         
           title: "如何做一篇学术论文笔记？",
