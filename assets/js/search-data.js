@@ -376,18 +376,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-will-pursue-my-eng-d-degree-at-nankai-university-a-new-journey-everything-will-be-ok-️",
+          title: 'I will pursue my Eng.D degree at Nankai University! A New Journey! Everything...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-a-paper-of-password-managers-autofill-feature-is-accepted-by-acsac-2024",
+          title: 'A paper of password managers’ autofill feature is accepted by ACSAC 2024! 🥳🎉...',
+          description: "",
+          section: "News",},{id: "news-a-paper-of-password-managers-protocol-analysis-is-accepted-by-ieee-s-amp-amp-p-2025",
+          title: 'A paper of password managers’ protocol analysis is accepted by IEEE S&amp;amp;amp;P 2025!...',
+          description: "",
+          section: "News",},{id: "news-long-journey-to-hawaii-us",
+          title: 'Long journey to Hawaii, US',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+              window.location.href = "/news/2024-12-15-acsacconf/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
