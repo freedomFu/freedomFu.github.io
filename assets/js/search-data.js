@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-如何做一篇学术论文笔记",
+        },{id: "post-那一段到夏威夷的漫长旅程",
+        
+          title: "那一段到夏威夷的漫长旅程",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/%E9%82%A3%E4%B8%80%E6%AE%B5%E5%88%B0%E5%A4%8F%E5%A8%81%E5%A4%B7%E7%9A%84%E6%BC%AB%E9%95%BF%E6%97%85%E7%A8%8B/";
+          
+        },
+      },{id: "post-如何做一篇学术论文笔记",
         
           title: "如何做一篇学术论文笔记？",
         
@@ -41,12 +52,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-of-password-managers-protocol-analysis-is-accepted-by-ieee-s-amp-amp-p-2025",
           title: 'A paper of password managers’ protocol analysis is accepted by IEEE S&amp;amp;amp;P 2025!...',
           description: "",
-          section: "News",},{id: "news-a-long-journey-to-hawaii-usa",
-          title: 'A Long Journey to Hawaii, USA',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2024-12-15-acsacconf/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
