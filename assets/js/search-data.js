@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-那一段到夏威夷的漫长旅程",
-        
-          title: "那一段到夏威夷的漫长旅程",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/%E9%82%A3%E4%B8%80%E6%AE%B5%E5%88%B0%E5%A4%8F%E5%A8%81%E5%A4%B7%E7%9A%84%E6%BC%AB%E9%95%BF%E6%97%85%E7%A8%8B/";
-          
-        },
-      },{id: "post-如何做一篇学术论文笔记",
+        },{id: "post-如何做一篇学术论文笔记",
         
           title: "如何做一篇学术论文笔记？",
         
