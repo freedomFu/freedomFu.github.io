@@ -52,7 +52,12 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-of-password-managers-protocol-analysis-is-accepted-by-ieee-s-amp-amp-p-2025",
           title: 'A paper of password managers’ protocol analysis is accepted by IEEE S&amp;amp;amp;P 2025!...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-a-long-journey-to-hawaii-usa",
+          title: 'A Long Journey to Hawaii, USA',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-12-15-acsacconf/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
