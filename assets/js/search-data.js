@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E7%AF%87%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/";
           
         },
+      },{id: "post-岁月极美",
+        
+          title: "岁月极美",
+        
+        description: "岁月极美，在于它的必然流逝。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/%E5%B2%81%E6%9C%88%E6%9E%81%E7%BE%8E/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
