@@ -41,8 +41,8 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-of-password-managers-protocol-analysis-is-accepted-by-ieee-s-amp-amp-p-2025",
           title: 'A paper of password managers’ protocol analysis is accepted by IEEE S&amp;amp;amp;P 2025!...',
           description: "",
-          section: "News",},{id: "news-long-journey-to-hawaii-us",
-          title: 'Long journey to Hawaii, US',
+          section: "News",},{id: "news-a-long-journey-to-hawaii-usa",
+          title: 'A Long Journey to Hawaii, USA',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-15-acsacconf/";
