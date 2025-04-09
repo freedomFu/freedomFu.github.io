@@ -36,4 +36,4 @@ My name is Yanduo Fu (付彦铎 in Chinese). I am currently a third-year Eng.D c
 
 🧗 **Motto:** Do it anyway.
 
-📮 Email: fuyanduo@foxmail.com
+📮 **Email:** fuyanduo@foxmail.com
