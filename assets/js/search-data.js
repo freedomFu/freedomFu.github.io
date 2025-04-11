@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-如何做一篇学术论文笔记",
+        },{id: "post-健身-增肌-减脂和营养素",
+        
+          title: "健身·增肌、减脂和营养素",
+        
+        description: "主要来源于哔哩哔哩流传的一个陈康的视频",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/%E5%A2%9E%E8%82%8C%E5%87%8F%E8%84%82%E5%92%8C%E8%90%A5%E5%85%BB%E7%B4%A0/";
+          
+        },
+      },{id: "post-如何做一篇学术论文笔记",
         
           title: "如何做一篇学术论文笔记？",
         
