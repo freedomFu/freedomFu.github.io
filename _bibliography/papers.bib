@@ -3,7 +3,7 @@
 
 @string{aps = {American Physical Society,}}
 
-@INPROCEEDINGS{10918070,
+@INPROCEEDINGS{Fuacsac2024,
   author={Fu, Yanduo and Wang, Ding},
   booktitle={2024 Annual Computer Security Applications Conference (ACSAC)}, 
   title={Leaky Autofill: An Empirical Study on the Privacy Threat of Password Managers’ Autofill Functionality}, 
@@ -17,7 +17,28 @@
   bibtex_show={true},
   pdf={acasc2024-pdf-leaky-autofill.pdf},
   preview={acsac-preview.jpg},
-  abbr={ACSAC},
+  abbr={ACSAC 2024},
   slides={acasc2024-slides-leaky-autofill.pdf},
   code={https://github.com/Leaky-Autofill/LeakyAutofill-Artifact}
+}
+
+@INPROCEEDINGS {Duanieeesp2025,
+abbr={IEEE S&P 2025},
+selected={true},
+bibtex_show={true},
+pdf={https://www.researchgate.net/publication/385420109_Security_Analysis_of_Master-Password-Protected_Password_Management_Protocols},
+author = {Duan, Yihe and Wang, Ding and Fu, Yanduo},
+booktitle = { 2025 IEEE Symposium on Security and Privacy (SP) },
+title = {{ Security Analysis of Master-Password-Protected Password Management Protocols }},
+year = {2025},
+volume = {},
+ISSN = {2375-1207},
+pages = {50-50},
+abstract = {Password managers (PMs) are useful tools that help users manage their login credentials, alleviating the burden of memorizing an ever-increasing number of passwords. Master-password-protected password management (M3PM) protocols characterize the interaction between the client and the PM's server. In this protocol, the client uses the master password for authentication, and the server assists in retrieving credentials across devices. Given the ongoing PM data breaches and users' concerns about potential server misuse, it is crucial for the server to remain oblivious to both the master password and the credentials. The pivotal role of M3PM protocols underscores the need for a systematic and formal security analysis. In this paper, we, for the first time, present an extensive formal analysis of M3PM protocols. We identify the de facto M3PM protocols from 43 PMs in industry and academia by defining a methodology that includes documentation analysis, traffic analysis, and reverse engineering. To formalize the security properties of M3PM protocols, we propose a set of ideal functionalities within the universal composability (UC) framework. We categorize offline guessing attacks on master passwords into four types based on the knowledge of the adversary. Our analysis shows that 38 of the 43 PMs are vulnerable to at least one type of offline guessing attack, demonstrating the circumstances under which various M3PM protocols with single master password protection fail to resist such attacks. Additionally, we identify an oracle attack where a corrupted server can learn the encryption key of the well-known open-source Passbolt, and demonstrate that 1Password's dual-key mechanism provides strong protection for users' master passwords and credentials.},
+keywords = {},
+doi = {10.1109/SP61157.2025.00050},
+url = {https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00050},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month =May
 }
