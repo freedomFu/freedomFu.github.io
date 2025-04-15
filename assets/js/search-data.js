@@ -38,6 +38,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E7%AF%87%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/";
           
         },
+      },{id: "post-硕士毕业后的一年-如果重回那个十字路口",
+        
+          title: "硕士毕业后的一年 - 如果重回那个十字路口",
+        
+        description: "大脑中回想起佟湘玉的经典台词：饿错咧 饿真滴错咧 ...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E7%9A%84%E4%B8%80%E5%B9%B4-%E5%A6%82%E6%9E%9C%E9%87%8D%E5%9B%9E%E9%82%A3%E4%B8%AA%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3/";
+          
+        },
       },{id: "post-岁月极美",
         
           title: "岁月极美",
