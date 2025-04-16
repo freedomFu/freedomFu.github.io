@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-健身-增肌-减脂和营养素",
+        },{id: "post-临近毕业的一年-那些花儿",
+        
+          title: "临近毕业的一年 - 那些花儿",
+        
+        description: "独居或是群居，为何如此多疑虑",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%E4%B8%B4%E8%BF%91%E6%AF%95%E4%B8%9A%E7%9A%84%E4%B8%80%E5%B9%B4-%E9%82%A3%E4%BA%9B%E8%8A%B1%E5%84%BF/";
+          
+        },
+      },{id: "post-健身-增肌-减脂和营养素",
         
           title: "健身·增肌、减脂和营养素",
         
@@ -36,6 +47,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E7%AF%87%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/";
+          
+        },
+      },{id: "post-12小时足够把想做的事情做一遍",
+        
+          title: "12小时足够把想做的事情做一遍",
+        
+        description: "迷茫的眼神，空洞的目光",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/12%E5%B0%8F%E6%97%B6%E8%B6%B3%E5%A4%9F%E6%8A%8A%E6%83%B3%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85%E5%81%9A%E4%B8%80%E9%81%8D/";
           
         },
       },{id: "post-硕士毕业后的一年-如果重回那个十字路口",
