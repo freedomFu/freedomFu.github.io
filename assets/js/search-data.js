@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-临近毕业的一年-那些花儿",
-        
-          title: "临近毕业的一年 - 那些花儿",
-        
-        description: "独居或是群居，为何如此多疑虑",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/%E4%B8%B4%E8%BF%91%E6%AF%95%E4%B8%9A%E7%9A%84%E4%B8%80%E5%B9%B4-%E9%82%A3%E4%BA%9B%E8%8A%B1%E5%84%BF/";
-          
-        },
-      },{id: "post-健身-增肌-减脂和营养素",
+        },{id: "post-健身-增肌-减脂和营养素",
         
           title: "健身·增肌、减脂和营养素",
         
