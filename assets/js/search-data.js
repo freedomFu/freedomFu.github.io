@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-健身-增肌-减脂和营养素",
+        },{id: "post-读后感之原子习惯",
+        
+          title: "读后感之原子习惯",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%E8%AF%BB%E5%90%8E%E6%84%9F%E4%B9%8B%E5%8E%9F%E5%AD%90%E4%B9%A0%E6%83%AF/";
+          
+        },
+      },{id: "post-健身-增肌-减脂和营养素",
         
           title: "健身·增肌、减脂和营养素",
         
