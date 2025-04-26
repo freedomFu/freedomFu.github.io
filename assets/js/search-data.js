@@ -93,7 +93,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-paper-of-password-managers-autofill-feature-is-accepted-by-acsac-2024",
           title: 'A paper of password managers’ autofill feature is accepted by ACSAC 2024! 🥳🎉...',
           description: "",
-          section: "News",},{id: "news-a-paper-of-password-managers-protocol-analysis-is-accepted-by-ieee-s-amp-amp-p-2025",
+          section: "News",},{id: "news-a-paper-of-password-managers-protocol-analysis-is-accepted-by-ieee-s-amp-amp-p-2025-congratulations-to-my-collegues",
           title: 'A paper of password managers’ protocol analysis is accepted by IEEE S&amp;amp;amp;P 2025!...',
           description: "",
           section: "News",},{id: "news-a-long-journey-to-hawaii-usa",
