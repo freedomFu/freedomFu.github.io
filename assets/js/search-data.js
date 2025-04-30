@@ -101,7 +101,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-15-acsacconf/";
-            },},{id: "projects-project-1",
+            },},{id: "news-feeling-a-bit-off-the-initial-review-of-my-patent-didn-t-go-great-and-xiaohongshu-only-added-to-the-anxiety-but-hey-some-things-in-life-just-need-to-be-done-no-matter-what-picking-myself-back-up-and-pushing-forward",
+          title: 'Feeling a bit off — the initial review of my patent didn’t go...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
