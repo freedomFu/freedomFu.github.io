@@ -27,9 +27,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/%E8%AF%BB%E5%90%8E%E6%84%9F%E4%B9%8B%E5%8E%9F%E5%AD%90%E4%B9%A0%E6%83%AF/";
           
         },
-      },{id: "post-健身-增肌-减脂和营养素",
+      },{id: "post-增肌-减脂和营养素",
         
-          title: "健身·增肌、减脂和营养素",
+          title: "增肌、减脂和营养素",
         
         description: "主要来源于哔哩哔哩流传的一个陈康的视频",
         section: "Posts",
@@ -80,6 +80,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2020/%E5%B2%81%E6%9C%88%E6%9E%81%E7%BE%8E/";
+          
+        },
+      },{id: "post-你走后-保定又下雨了",
+        
+          title: "你走后，保定又下雨了",
+        
+        description: "本科做公众号的学长毕业后，又迎来了雨季",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/%E4%BD%A0%E8%B5%B0%E5%90%8E-%E4%BF%9D%E5%AE%9A%E5%8F%88%E4%B8%8B%E9%9B%A8%E4%BA%86/";
+          
+        },
+      },{id: "post-开始跑步的一年",
+        
+          title: "开始跑步的一年",
+        
+        description: "开始跑步的第一年",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/%E5%BC%80%E5%A7%8B%E8%B7%91%E6%AD%A5%E7%9A%84%E4%B8%80%E5%B9%B4/";
           
         },
       },{id: "books-the-godfather",
