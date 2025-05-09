@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-读后感之原子习惯",
+        },{id: "post-转载读书群里老师介绍的教员笔记",
+        
+          title: "转载读书群里老师介绍的教员笔记",
+        
+        description: "读书群中的笔记，感觉很好，于是转载过来了",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%E8%BD%AC%E8%BD%BD%E8%AF%BB%E4%B9%A6%E7%BE%A4%E9%87%8C%E8%80%81%E5%B8%88%E4%BB%8B%E7%BB%8D%E7%9A%84%E6%95%99%E5%91%98%E7%AC%94%E8%AE%B0/";
+          
+        },
+      },{id: "post-读后感之原子习惯",
         
           title: "读后感之原子习惯",
         
