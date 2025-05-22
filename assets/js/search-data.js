@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-转载读书群里老师介绍的教员笔记",
+        },{id: "post-不自律才能自由",
+        
+          title: "不自律才能自由",
+        
+        description: "生活就是问题叠着问题，你能做的就是直面问题",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%E4%B8%8D%E8%87%AA%E5%BE%8B%E6%89%8D%E8%83%BD%E8%87%AA%E7%94%B1/";
+          
+        },
+      },{id: "post-转载读书群里老师介绍的教员笔记",
         
           title: "转载读书群里老师介绍的教员笔记",
         
