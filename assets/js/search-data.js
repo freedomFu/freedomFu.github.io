@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-不自律才能自由",
+        },{id: "post-and-more-about-me",
+        
+          title: "And More About Me",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/And-More-About-Me/";
+          
+        },
+      },{id: "post-不自律才能自由",
         
           title: "不自律才能自由",
         
@@ -93,6 +104,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/%E7%A1%95%E5%A3%AB%E6%AF%95%E4%B8%9A%E5%90%8E%E7%9A%84%E4%B8%80%E5%B9%B4-%E5%A6%82%E6%9E%9C%E9%87%8D%E5%9B%9E%E9%82%A3%E4%B8%AA%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3/";
           
         },
+      },{id: "post-专心专注",
+        
+          title: "专心专注",
+        
+        description: "天空是蔚蓝色",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/%E4%B8%93%E5%BF%83%E4%B8%93%E6%B3%A8/";
+          
+        },
       },{id: "post-岁月极美",
         
           title: "岁月极美",
@@ -102,6 +124,39 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2020/%E5%B2%81%E6%9C%88%E6%9E%81%E7%BE%8E/";
+          
+        },
+      },{id: "post-你的临终遗言是什么",
+        
+          title: "你的临终遗言是什么",
+        
+        description: "林晨问：“你的临终遗言是什么”",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/%E4%BD%A0%E7%9A%84%E4%B8%B4%E7%BB%88%E9%81%97%E8%A8%80%E6%98%AF%E4%BB%80%E4%B9%88/";
+          
+        },
+      },{id: "post-偶尔荒废-偶尔孤独",
+        
+          title: "偶尔荒废，偶尔孤独",
+        
+        description: "突然想把这几年的所想所感都记录下来。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/%E5%81%B6%E5%B0%94%E8%8D%92%E5%BA%9F-%E5%81%B6%E5%B0%94%E5%AD%A4%E7%8B%AC/";
+          
+        },
+      },{id: "post-哦-为什么要开始减肥呢",
+        
+          title: "哦，为什么要开始减肥呢",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/%E5%93%A6-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%BC%80%E5%A7%8B%E5%87%8F%E8%82%A5%E5%91%A2/";
           
         },
       },{id: "post-你走后-保定又下雨了",
